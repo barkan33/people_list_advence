@@ -11,3 +11,8 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.EditInput{
+  width: 10rem;
+  height: 2rem;
+  border-radius: 5px;
+}
